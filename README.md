@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @j0pezzz
 - 👀 I like creating games and playing them.
-- 🌱 I’m currently making a multiplayer FPS game called [Project Zero](https://store.steampowered.com/app/2257910/Project_Zero/) which is releasing in Q3 2024!
+- 🌱 Working on [Project Zero](https://store.steampowered.com/app/2257910/Project_Zero/) which is in Early Access!
 - 🦾 Some small games I have made -> [Ping Pong Clone](https://github.com/j0pezzz/pong_clone), 
 
 - Utilities -> [Screenshot Tool](https://assetstore.unity.com/packages/tools/utilities/screenshot-tool-291169)
